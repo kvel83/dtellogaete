@@ -2,6 +2,11 @@
 
 Desafío Final del primer módulo Introducción al desarrollo web de la carrera Full Stack Developer de Desafío Latam. El objetivo es validar los conocimientos y habilidades en HTML, CSS, Bootstrap, Git y Github.
 
+Los componentes de Bootstrap utilizados son:
+- Navbar
+- Card
+- Dropdown button
+
 Este trabajo consiste en desarrollar un portafolio de proyectos realizados en este primer módulo, en conjunto de
 con realizar fork a dos compañeros:
 
